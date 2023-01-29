@@ -1,0 +1,11 @@
+flask
+line-bot-sdk
+gunicorn
+requests
+beautifulsoup4
+glob2
+pybase64
+regex
+pyrebase4
+firebase-admin
+urllib3
