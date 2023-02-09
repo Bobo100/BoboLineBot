@@ -1,5 +1,6 @@
 # BoboLineBot
- BoboLineBot
+
+ BoboLineBot - 大量不成熟程式碼，應是拼拼湊湊也寫出來一個機器人
  
  功能：
  抽當日運勢
